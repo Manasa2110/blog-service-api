@@ -20,5 +20,5 @@ This application is created using Spring Boot. Test cases for controller and dat
 To run this application:
 
 1. mvn clean install
-2. run the 
+2. import the project and use the postman collection to hit get and post endpoints
 
