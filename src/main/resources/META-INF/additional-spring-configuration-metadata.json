@@ -1,0 +1,14 @@
+{
+	"properties": [
+		{
+			"name": "usersURL",
+			"type": "java.lang.String",
+			"description": "A description for 'usersURL'"
+		},
+		{
+			"name": "postsURL",
+			"type": "java.lang.String",
+			"description": "A description for 'postsURL'"
+		}
+	]
+}
